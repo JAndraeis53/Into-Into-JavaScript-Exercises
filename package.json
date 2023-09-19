@@ -1,0 +1,15 @@
+{
+  "name": "introtojsexercise",
+  "version": "1.0.0",
+  "description": "Organizing Your Code on Github\r We suggest that you organize your solutions this way:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
